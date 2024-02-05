@@ -1,0 +1,2 @@
+falseString = "False"
+print("Representation of False as a string:", falseString)

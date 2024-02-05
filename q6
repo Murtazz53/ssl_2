@@ -1,0 +1,11 @@
+Decimal=53
+print("the decimal no. is:",Decimal)
+
+Binary=bin(Decimal)
+print("The Binary no. is:",Binary)
+
+Octal=oct(Decimal)
+print("the octal no. is",Octal)
+
+Hexadecimal=hex(Decimal)
+print("The Hexadecimal no. is:",Hexadecimal)

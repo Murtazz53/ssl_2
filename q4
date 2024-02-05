@@ -1,0 +1,9 @@
+Binary=int(input("Enter a binary:"),2)
+print("Integer number is:",Binary)
+
+Octal=int(input("Enter an octal number:"),8)
+print("Integer number is:",Octal)
+
+Hexadecimal=int(input("Enter a hexadecimal number:"),16)
+print("Integer number is:",Hexadecimal)
+
